@@ -1,0 +1,13 @@
+<code_scheme name="Default" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="USE_PATH_MAPPING" value="NEVER" />
+  </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </TypeScriptCodeStyleSettings>
+</code_scheme>
