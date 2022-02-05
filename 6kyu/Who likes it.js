@@ -15,7 +15,6 @@
 function likes(names) {
     if (!names.length) names.push("no one");
 
-
     switch (names.length) {
         case 1:
             return `${names[0]} likes this`;
