@@ -1,4 +1,5 @@
 ##Associative Operation on Range
+---
 
 A binary operation op is called associative if
 
@@ -12,6 +13,7 @@ for example:
 
 
 ###Task
+---
 Inputs:
 
 ```arr``` - array of objects with type ```T``` and size ```n``` (1..100 000)
@@ -30,16 +32,17 @@ op = +
 result = 0 + 7 + 8 = 15
 ```
 ###Output:
+---
 
 - Array of results for the respective ranges.
 
 ###Notes
+---
 - The time complexity is expected to be ```O((n + m) * log n) * T(op)``` or better.
 - Start always less than end.
 - Start and end always in range from ```0``` to ```n```.
 
 ---
-
 ### Given Code
 ```javascript
 function computeRanges(arr, op, ranges) {
@@ -49,7 +52,6 @@ function computeRanges(arr, op, ranges) {
 ```
 
 ---
-
 ### Solution
 
 ```javascript
