@@ -1,4 +1,4 @@
-##Associative Operation on Range
+#Associative Operation on Range
 ---
 
 A binary operation op is called associative if
@@ -12,7 +12,7 @@ for example:
 ```(A * B) * C = A * (B * C)``` where ```A, B, C``` are matrices with sizes ```N x M, M x K, K x L```
 
 
-###Task
+##Task
 ---
 Inputs:
 
@@ -31,12 +31,12 @@ op = +
 
 result = 0 + 7 + 8 = 15
 ```
-###Output:
+##Output:
 ---
 
 - Array of results for the respective ranges.
 
-###Notes
+##Notes
 ---
 - The time complexity is expected to be ```O((n + m) * log n) * T(op)``` or better.
 - Start always less than end.
@@ -52,7 +52,7 @@ function computeRanges(arr, op, ranges) {
 ```
 
 ---
-### Solution
+## Solution
 
 ```javascript
 function computeRanges(arr, op, ranges) {
