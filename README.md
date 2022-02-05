@@ -30,5 +30,23 @@
 
 <br>
 
+## 6kyu Katas
+
+<br>
+
+| Kata(s) | Complete | Tags | CW Link |
+|--|--|--|--|
+| [**Delete occurrences of an element if it occurs more than n times**](6kyu/Delete_occurrences_of_an_element_if_it_occurs_more_than_n_times.md)  | 1 | `FUNDAMENTALS`, `LISTS`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/554ca54ffa7d91b236000023) |
+| [**Array.diff**](6kyu/Array.diff.md)  | 1 | `FUNDAMENTALS`, `ARRAYS` | [link](https://www.codewars.com/kata/523f5d21c841566fde000009) |
+| [**Take a Ten Minute Walk**](6kyu/Take_a_Ten_Minute_Walk.md)  | 1 | `FUNDAMENTALS`, `ARRAYS` | [link](https://www.codewars.com/kata/54da539698b8a2ad76000228) |
+| [**Build a pile of Cubes**](6kyu/Build_a_pile_of_Cubes.md)  | 1 | `FUNDAMENTALS`, `OPTIMIZATION` | [link](https://www.codewars.com/kata/5592e3bd57b64d00f3000047) |
+| [**Who likes it?**](6kyu/Who_likes_it.md)  | 1 | `FUNDAMENTALS`, `FORMATTING`, `ALGORITHMS`, `STRINGS` | [link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) |
+| [**Replace With Alphabet Position**](6kyu/Replace_With_Alphabet_Position.md)  | 1 | `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/546f922b54af40e1e90001da) |
+| [**Mexican Wave**](6kyu/Mexican_Wave.md)  | 1 | `FUNDAMENTALS`, `ARRAYS`, `STRINGS` | [link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
+| [**Find the unique number**](6kyu/Find_the_unique_number.md)  | 1 | `FUNDAMENTALS`, `ALGORITHMS`, `NUMBERS`, `ARRAYS` | [link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
+| [**Detect Pangram**](6kyu/Detect_Pangram.md)  | 1 | `FUNDAMENTALS`, `STRINGS`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
+
+<br>
+
 ---
 
