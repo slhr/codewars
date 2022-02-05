@@ -30,15 +30,15 @@ function solution(list){
 ```javascript
 function solution(list) {
     let resultString = "";
-    let diapasoneStart;
+    let diapasonStart;
 
     for (let i = 0; i < list.length; i++) {
         if (list[i - 1] + 1 === list[i] && list[i] + 1 === list[i + 1]) {
             continue;
         }
-        diapasoneStart = list[i]
+        diapasonStart = list[i]
 
-        resultString += diapasoneStart
+        resultString += diapasonStart
 
         if (list[i] + 1 === list[i + 1] && list[i] + 2 === list[i + 2]) {
             resultString += "-"
