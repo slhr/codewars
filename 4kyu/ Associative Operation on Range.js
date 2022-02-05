@@ -50,7 +50,6 @@ function computeRanges(arr, op, ranges) {
             return op(accumulator, current);
         });
     });
-
 }
 
 console.log(computeRanges([ 5, 6, 9, 2, 2, 2 ], operations["+"], [[ 3, 4 ], [ 1, 2 ], [ 0, 3 ], [ 1, 3 ]]));
