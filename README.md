@@ -26,6 +26,7 @@
 | [**Rot13**](5kyu/Rot13.md)  | 1 | `FUNDAMENTALS`, `CIPHERS`, `ALGORITHMS`, `CRYPTOGRAPHY`, `SECURITY` | [link](https://www.codewars.com/kata/530e15517bc88ac656000716) |
 | [**Simple Pig Latin**](5kyu/Simple_Pig_Latin.md)  | 1 | `ALGORITHMS`, `REGULAR EXPRESSIONS`, `DECLARATIVE PROGRAMMING`, `ADVANCED LANGUAGE FEATURES`, `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
 | [**Moving Zeros To The End**](5kyu/Moving_Zeros_To_The_End.md)  | 1 | `ALGORITHMS`, `INTERVIEW QUESTIONS`, `ARRAYS`, `SORTING` | [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
+| [**Product of consecutive Fib numbers**](5kyu/Product_of_consecutive_Fib_numbers.md)  | 1 | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
 
 <br>
 
