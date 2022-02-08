@@ -45,6 +45,7 @@
 | [**Mexican Wave**](6kyu/Mexican_Wave.md)  | 1 | `FUNDAMENTALS`, `ARRAYS`, `STRINGS` | [link](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) |
 | [**Find the unique number**](6kyu/Find_the_unique_number.md)  | 1 | `FUNDAMENTALS`, `ALGORITHMS`, `NUMBERS`, `ARRAYS` | [link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
 | [**Detect Pangram**](6kyu/Detect_Pangram.md)  | 1 | `FUNDAMENTALS`, `STRINGS`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
+| [**IP Validation**](6kyu/IP_Validation.md)  | 1 | `ALGORITHMS`, `REGULAR EXPRESSIONS`, `DECLARATIVE PROGRAMMING`, `ADVANCED LANGUAGE FEATURES`, `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) |
 
 <br>
 
