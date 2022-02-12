@@ -27,6 +27,7 @@
 | [**Simple Pig Latin**](5kyu/Simple_Pig_Latin.md)  | 1 | `ALGORITHMS`, `REGULAR EXPRESSIONS`, `DECLARATIVE PROGRAMMING`, `ADVANCED LANGUAGE FEATURES`, `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) |
 | [**Moving Zeros To The End**](5kyu/Moving_Zeros_To_The_End.md)  | 1 | `ALGORITHMS`, `INTERVIEW QUESTIONS`, `ARRAYS`, `SORTING` | [link](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |
 | [**Product of consecutive Fib numbers**](5kyu/Product_of_consecutive_Fib_numbers.md)  | 1 | `FUNDAMENTALS` | [link](https://www.codewars.com/kata/5541f58a944b85ce6d00006a) |
+| [**Human Readable Time**](5kyu/Human_Readable_Time.md)  | 1 | `ALGORITHMS`, `DATES/TIME`, `MATHEMATICS`, `NUMBERS` | [link](https://www.codewars.com/kata/52685f7382004e774f0001f7) |
 
 <br>
 
@@ -46,6 +47,7 @@
 | [**Find the unique number**](6kyu/Find_the_unique_number.md)  | 1 | `FUNDAMENTALS`, `ALGORITHMS`, `NUMBERS`, `ARRAYS` | [link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) |
 | [**Detect Pangram**](6kyu/Detect_Pangram.md)  | 1 | `FUNDAMENTALS`, `STRINGS`, `DATA STRUCTURES` | [link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) |
 | [**IP Validation**](6kyu/IP_Validation.md)  | 1 | `ALGORITHMS`, `REGULAR EXPRESSIONS`, `DECLARATIVE PROGRAMMING`, `ADVANCED LANGUAGE FEATURES`, `FUNDAMENTALS`, `STRINGS` | [link](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) |
+| [**Sum of Digits / Digital Root**](6kyu/Sum_of_Digits_Digital_Root.md)  | 1 | `ALGORITHMS`, `MATHEMATICS`, `NUMBERS`, `ARITHMETIC` | [link](https://www.codewars.com/kata/541c8630095125aba6000c00) |
 
 <br>
 
